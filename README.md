@@ -2,7 +2,7 @@
 
 Designed for custom WordPress Gutenburg blocks using sage and roots.io
 
-### Install
+### :electric_plug: Install
 Add following snippet to your site: 
 
     `{
