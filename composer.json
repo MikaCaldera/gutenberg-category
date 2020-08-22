@@ -1,0 +1,21 @@
+{
+  "name": "mikacaldera/rebel-category",
+  "description": "Custom category type for gutenburg plugins",
+  "keywords": ["wordpress", "plugin", "gutenburg", "category", "blocks"],
+  "homepage": "https://github.com/MikaCaldera/rebel-category",
+  "authors": [
+      {
+        "name": "Mika Caldera",
+        "role": "Developer"
+      }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+      "files": [
+          "plugin.php"
+      ]
+  }
+}
