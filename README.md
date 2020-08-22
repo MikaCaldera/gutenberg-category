@@ -11,8 +11,9 @@ Add following snippet to your site:
 	}`
 
 
-In your site folder Run the following command
-`composer require "mikacaldera/rebel-category"`
+In your site folder Run the following command.
+
+	`composer require "mikacaldera/rebel-category"`
 
 ## :triangular_ruler: Use
 
