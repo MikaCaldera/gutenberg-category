@@ -1,6 +1,6 @@
 # :four_leaf_clover: Custom Gutenberg Block Category
 
-Designed for custom WordPress Gutenburg blocks using sage and roots.io
+Designed for custom WordPress Gutenberg blocks using sage and roots.io
 
 ### :electric_plug: Install
 Add following snippet to your site:
