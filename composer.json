@@ -1,8 +1,8 @@
 {
-  "name": "mikacaldera/rebel-category",
+  "name": "mikacaldera/gutenburg-category",
   "description": "Custom category type for gutenburg plugins",
   "keywords": ["wordpress", "plugin", "gutenburg", "category", "blocks"],
-  "homepage": "https://github.com/MikaCaldera/rebel-category",
+  "homepage": "https://github.com/MikaCaldera/gutenburg-category",
   "license": "MIT",
   "authors": [
       {
