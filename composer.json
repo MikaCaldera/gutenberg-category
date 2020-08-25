@@ -1,6 +1,6 @@
 {
   "name": "mikacaldera/gutenberg-category",
-  "description": "Custom category type for gutenberg plugins",
+  "description": "Advanced category type for gutenberg plugins",
   "keywords": ["wordpress", "plugin", "gutenberg", "category", "blocks"],
   "homepage": "https://github.com/MikaCaldera/gutenberg-category",
   "license": "MIT",
@@ -14,10 +14,5 @@
   "require": {
     "php": ">=7.3.11",
     "composer/installers": "^1.0"
-  },
-  "autoload": {
-      "files": [
-          "plugin.php"
-      ]
   }
 }

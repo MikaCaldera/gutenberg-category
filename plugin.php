@@ -18,8 +18,8 @@ add_filter('block_categories', function ($categories, $post) {
       $categories,
       array(
           array(
-              'slug' => 'rebel',
-              'title' => __('Custom Rebel', 'rebel'),
+              'slug' => 'advanced',
+              'title' => __('Advanced', 'advanced'),
           ),
       )
   );
