@@ -5,7 +5,7 @@ Designed for custom WordPress Gutenberg blocks using sage and roots.io
 ### :electric_plug: Install
 Add following snippet to your site:
 
-    `{
+  `{
 	"type": "vcs",
 	"url": "git@github.com:MikaCaldera/gutenberg-category.git"
 	}`
