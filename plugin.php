@@ -21,6 +21,6 @@ add_filter('block_categories', function ($categories, $post) {
             'slug' => 'custom',
             'title' => __('Custom', 'custom'),
         ),
-      )
+        )
     );
 }, 1, 2);
