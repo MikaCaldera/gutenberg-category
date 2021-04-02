@@ -4,16 +4,18 @@ Package that will create a special categeory in your gutenberg blocks list named
 
 ## :electric_plug: Install
 Add following snippet to your site:
-
+```
   {
   "type": "vcs",
   "url": "git@github.com:MikaCaldera/gutenberg-category.git"
   }
-
+```
 
 In your site folder run the following command.
 
+```
   composer require "mikacaldera/gutenberg-category"
+```
 
 ## :triangular_ruler: Use
 
