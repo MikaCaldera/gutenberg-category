@@ -1,6 +1,6 @@
 {
   "name": "mikacaldera/custom-category",
-  "description": "Custom category type for gutenberg plugins",
+  "description": "Custom category type for custom gutenberg blocks",
   "keywords": ["wordpress", "plugin", "gutenberg", "category", "blocks", "custom"],
   "homepage": "https://github.com/MikaCaldera/gutenberg-category",
   "license": "MIT",
