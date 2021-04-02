@@ -19,4 +19,16 @@ In your site folder run the following command.
 
 ## :triangular_ruler: Use
 
-When you create a block use the category  `custom`  to have it listed under custom Gutenberg blocks
+When you create a new custom gutenberg block use the category  `custom`  to have it listed under custom Gutenberg blocks. 
+
+```registerBlockType( 'create-block/container', {
+  // Basic Specs
+  title: __( 'Container', 'create-block' ),
+  description: __(
+    'Adds options for a container and background color.',
+    'create-block'
+  ),
+  keywords: [__('container'), __('full'), __('block')],
+  category: 'custom',
+  icon: 'editor-contract',
+  ```
