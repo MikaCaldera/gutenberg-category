@@ -6,8 +6,8 @@
     'aliases' => 
     array (
     ),
-    'reference' => '6df1f9bcba7b4161c204cfb189b98ec2ade037b7',
-    'name' => 'mikacaldera/custom-category',
+    'reference' => 'bc50251ba0dc9c61c14b3d264914ebf95f99d863',
+    'name' => 'mikacaldera/gutenberg-category',
   ),
   'versions' => 
   array (
@@ -20,14 +20,14 @@
       ),
       'reference' => '1a0357fccad9d1cc1ea0c9a05b8847fbccccb78d',
     ),
-    'mikacaldera/custom-category' => 
+    'mikacaldera/gutenberg-category' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => '6df1f9bcba7b4161c204cfb189b98ec2ade037b7',
+      'reference' => 'bc50251ba0dc9c61c14b3d264914ebf95f99d863',
     ),
     'roundcube/plugin-installer' => 
     array (
