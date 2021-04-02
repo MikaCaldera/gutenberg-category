@@ -1,14 +1,14 @@
-# :four_leaf_clover: Custom Gutenberg Block Category
+# :sparkles: Custom Block Category
 
-Designed for custom WordPress Gutenberg blocks using sage and roots.io
+Package that will create a special categeory in your gutenberg blocks list named 'Custom'. Created for custom WordPress websites using sage and roots.io. 
 
-### :electric_plug: Install
+## :electric_plug: Install
 Add following snippet to your site:
 
-  `{
+  {
 	"type": "vcs",
 	"url": "git@github.com:MikaCaldera/gutenberg-category.git"
-	}`
+	}
 
 
 In your site folder run the following command.
@@ -17,4 +17,4 @@ In your site folder run the following command.
 
 ## :triangular_ruler: Use
 
-When you create a block use the category  `advanced`  to have it listed under custom Gutenberg blocks
+When you create a block use the category  `custom`  to have it listed under custom Gutenberg blocks
