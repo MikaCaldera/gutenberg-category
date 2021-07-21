@@ -13,7 +13,7 @@
  /**
  * Custom Block Category
  */
-add_filter('block_categories', function ($categories, $post) {
+add_filter('block_categories_all', function ($categories, $post) {
     return array_merge(
         $categories,
         array(
